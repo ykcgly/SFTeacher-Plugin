@@ -1,15 +1,42 @@
-# 粘液科技及附属教程 SFTeacher
+# 粘液科技及附属教程 SFTeacher-Plugin
 
- 粘液科技及附属教程，一个rsc配置，用于将全网的粘液科技教程添加到粘液科技书中
- 
-粘液科技及附属教程是用RykenSlimefunCustomizer插件写成的一份配置文件
+将全网的粘液科技教程添加到粘液科技书中！
 
-安装粘液科技及附属教程需要使用RykenSlimefunCustomizer，简称rsc，在此[下载RykenSlimefunCustomizer](https://builds.guizhanss.com/SlimefunReloadingProject/RykenSlimeCustomizer/main)
+# 食用方式
 
-安装粘液科技及附属教程，只需要将下载的文件解压，然后直接拖入server\plugins\RykenSlimefunCustomizer\addons目录下即可
+直接放入`plugins`文件夹即可。  
+前置仅需粘液本体。
 
-![当前版本](https://img.shields.io/github/v/release/haiman233/SFTeacher?include_prereleases)
-![下载数](https://img.shields.io/github/downloads/haiman233/SFTeacher/total)
+# 现在已有
+
+1. 粘液本体
+2. GLTC
+3. 起源科技
+4. 粘液wiki
+5. 匠魂
+6. 网络
+7. 无尽
+8. ae
+9. 阿伦全流程视频
+10. 粘液图文教程
+  1. 至尊研究院
+  2. 动力科技
+  3. 网络
+  4. 神秘科技
+  5. 工业科技
+  6. 下界乌托邦
+  7. 星际科技
+  8. 蓬松科技
+  9. 魔法水晶编年史
+11. 乱序技艺
+12. 乱码科技
+13. 逻辑工艺
+14. 基因工程
+15. 农耕工艺
+16. 美食家
+17. 粘土科技
+18. 太空科技
+19. 英文教程
 
 ## 关于教程的补充
 
